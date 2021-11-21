@@ -1,12 +1,12 @@
 # Pokecito V.1
 Pagina web para buscar a tu pokemon favorito solo con digital un numero.
 
-# Screenshot
+# Captura de Pantalla
 ![preview](./docs/img/home.png)
 
 # Herramientas
 - [Fetch_API](https://developer.mozilla.org/es/docs/Web/API/Fetch_API) - para hacer solicitudes GET a la API de pokeapi
-- [Pokenest](https://pokeapi.co/) - Api de pokemon
+- [PokeApi](https://pokeapi.co/) - Api de pokemon
 - [GitHub Pages](https://pages.github.com/) - despliegue de la pagina en github
 
 # Despliegue
